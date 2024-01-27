@@ -1,5 +1,5 @@
 # All For One &nbsp;&nbsp;<a href="https://allforone-frontend.vercel.app/">![Website](https://img.shields.io/website?url=https%3A%2F%2Fallforone-frontend.vercel.app%2F&up_message=ONLINE&up_color=%23355E3B&down_message=OFFLINE&down_color=red&style=for-the-badge&logo=vercel)</a>
-**Name: Elizabeth Trotter**
+**Name:** Elizabeth Trotter
 
 ### Project Scope
 
