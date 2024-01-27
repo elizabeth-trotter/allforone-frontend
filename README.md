@@ -2,9 +2,9 @@
 
 **Name:** Elizabeth Trotter
 
-**Project Scope:** This is a `comprehensive project` that consolidates former mini API endpoints challenges into a 10-page web application. The focus of this project is to `build out the front end` using `Tailwind CSS` to create a user-friendly interface for each API endpoint. This project was based on a `mobile first design` and responsiveness was added for larger screen sizes. This was the first project in which I built a fully functional `Web API`, deployed on `Azure`, that can be accessed by other applications over HTTP.
+**Project Scope:** This is a `comprehensive project` that consolidates former mini API endpoints challenges into a 10-page web application. The focus of this project is to `build out the front end` using `Tailwind CSS` to create a `user-friendly interface` for each API endpoint. This project was based on a `mobile first design` and responsiveness was added for larger screen sizes. This was the first project in which I built a fully functional `Web API`, deployed on `Azure`, that can be accessed by other applications over HTTP.
 
-#### Peer Review
+### Peer Review
 > **Name:** Aiden Foo **Date / Time:** 1/26/2024 1:35 pm
 > 
 > **Comment(s):**
