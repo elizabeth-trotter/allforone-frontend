@@ -9,7 +9,6 @@ let input = document.getElementById("input");
 async function MagicEndpoint(){
     const promise = await fetch(`https://allforoneproject.azurewebsites.net/MagicBall/Generate8BallResponseToQuestion/`);
     const data = await promise.text();
-    console.log(data);
     return data;
 }
 

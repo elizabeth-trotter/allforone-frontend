@@ -10,7 +10,6 @@ let numTwo = document.getElementById("numTwo");
 async function CompareEndpoint(numOne, numTwo){
     const promise = await fetch(`https://allforoneproject.azurewebsites.net/Compare/CompareNums/${numOne}/${numTwo}`);
     const data = await promise.text();
-    console.log(data);
     return data;
 }
 

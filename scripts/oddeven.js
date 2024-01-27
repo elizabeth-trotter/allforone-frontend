@@ -9,7 +9,6 @@ let userName = document.getElementById("numOne");
 async function OddOrEvenEndpoint(numOne){
     const promise = await fetch(`https://allforoneproject.azurewebsites.net/OddOrEven/OddOrEven/${numOne}`);
     const data = await promise.text();
-    console.log(data);
     return data;
 }
 

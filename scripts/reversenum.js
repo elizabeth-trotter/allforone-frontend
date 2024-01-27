@@ -9,7 +9,6 @@ let input = document.getElementById("input");
 async function ReverseNumEndpoint(userNum){
     const promise = await fetch(`https://allforoneproject.azurewebsites.net/ReverseItNum/ReverseItNum/Enteranumberonly${userNum}`);
     const data = await promise.text();
-    console.log(data);
     return data;
 }
 

@@ -19,7 +19,6 @@ let hours1 = document.getElementById("hours1");
 async function RestaurantEndpoint(noun1, holiday1, pronoun1, animal1, exclamation1, color1, noun2, verb1_ing, bluntObject1, hours1){
     const promise = await fetch(`https://allforoneproject.azurewebsites.net/MadLib/MadLib/${noun1}/${holiday1}/${pronoun1}/${animal1}/${exclamation1}/${color1}/${noun2}/${verb1_ing}/${bluntObject1}/${hours1}`);
     const data = await promise.text();
-    console.log(data);
     return data;
 }
 

@@ -9,7 +9,6 @@ let userName = document.getElementById("userName");
 async function SayHelloEndpoint(userName){
     const promise = await fetch(`https://allforoneproject.azurewebsites.net/Hello/Hello/${userName}`);
     const data = await promise.text();
-    console.log(data);
     return data;
 }
 

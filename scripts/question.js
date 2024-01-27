@@ -10,7 +10,6 @@ let time = document.getElementById("time");
 async function QuestionEndpoint(name, time){
     const promise = await fetch(`https://allforoneproject.azurewebsites.net/Question/GetAnswers/${name}/${time}`);
     const data = await promise.text();
-    console.log(data);
     return data;
 }
 

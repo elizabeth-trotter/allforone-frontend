@@ -9,7 +9,6 @@ let input = document.getElementById("input");
 async function RestaurantEndpoint(category){
     const promise = await fetch(`https://allforoneproject.azurewebsites.net/Restaurant/ChoosePizzaSushiOrBurgers/${category}`);
     const data = await promise.text();
-    console.log(data);
     return data;
 }
 

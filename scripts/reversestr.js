@@ -9,7 +9,6 @@ let input = document.getElementById("input");
 async function ReverseStrEndpoint(userInput){
     const promise = await fetch(`https://allforoneproject.azurewebsites.net/ReverseItAlpha/ReverseIt/Entersequenceoflettersandornumbers${userInput}`);
     const data = await promise.text();
-    console.log(data);
     return data;
 }
 
