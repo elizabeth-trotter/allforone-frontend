@@ -1,7 +1,7 @@
 # All For One &nbsp;&nbsp;<a href="https://allforone-frontend.vercel.app/">![Website](https://img.shields.io/website?url=https%3A%2F%2Fallforone-frontend.vercel.app%2F&up_message=ONLINE&up_color=%23355E3B&down_message=OFFLINE&down_color=red&style=for-the-badge&logo=vercel)</a>
+**Name: Elizabeth Trotter**
 
-
-**Project Scope:** 
+### Project Scope
 
 This is a `comprehensive project` that consolidates former mini API endpoints challenges into a 10-page web application. The focus of this project was to `build out the front end` using `Tailwind CSS` to create a `user-friendly interface` for each API endpoint. The application fetches from a fully functional `Web API`, deployed on `Azure`, that can be accessed by other applications over HTTP.
 
