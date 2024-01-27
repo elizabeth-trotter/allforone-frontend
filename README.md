@@ -1,8 +1,22 @@
-# All For One
+# All For One &nbsp;&nbsp;<a href="https://allforone-frontend.vercel.app/">![Website](https://img.shields.io/website?url=https%3A%2F%2Fallforone-frontend.vercel.app%2F&up_message=ONLINE&up_color=%23355E3B&down_message=OFFLINE&down_color=red&style=for-the-badge&logo=vercel)</a>
 
-**Name:** Elizabeth Trotter
 
-**Project Scope:** This is a `comprehensive project` that consolidates former mini API endpoints challenges into a 10-page web application. The focus of this project is to `build out the front end` using `Tailwind CSS` to create a `user-friendly interface` for each API endpoint. This project was based on a `mobile first design` and responsiveness was added for larger screen sizes. This was the first project in which I built a fully functional `Web API`, deployed on `Azure`, that can be accessed by other applications over HTTP.
+**Project Scope:** 
+
+This is a `comprehensive project` that consolidates former mini API endpoints challenges into a 10-page web application. The focus of this project was to `build out the front end` using `Tailwind CSS` to create a `user-friendly interface` for each API endpoint. The application fetches from a fully functional `Web API`, deployed on `Azure`, that can be accessed by other applications over HTTP.
+
+This project was prototyped on `Figma` using a `mobile first design`. Click [here](https://www.figma.com/proto/P9ZFb3XZKi6OTKlwhIVT3e/All-For-One?node-id=1-3&starting-point-node-id=1%3A3&mode=design&t=H8UrXTEuxcELZiLW-1) to visit the `Figma prototype design` for Mobile and Desktop.
+&nbsp;
+
+
+<h2 align="center">Application Preview</h2>
+
+![Mobile preview](./assets/MobilePreview.png)
+<p align="right">Figure 1: Mobile preview of home page and first two levels</p>
+
+
+---
+
 
 ### Peer Review
 > **Name:** Aiden Foo **Date / Time:** 1/26/2024 1:35 pm
@@ -14,13 +28,3 @@
 - Responsiveness added for all mobile pages :white_check_mark: *1/26/24 5:15 pm*
 - Mad Lib input field layout fixed for desktop & mobile :white_check_mark: *1/26/24 5:15 pm*
 
-
-## Application Preview
-
-![Mobile preview](./assets/MobilePreview.png)
-<p align="right">Figure 1: Mobile development preview</p>
-
-
-## Prototype
-
-Click [Prototype](https://www.figma.com/proto/P9ZFb3XZKi6OTKlwhIVT3e/All-For-One?node-id=1-3&starting-point-node-id=1%3A3&mode=design&t=H8UrXTEuxcELZiLW-1) to visit the **Figma prototype design**.
