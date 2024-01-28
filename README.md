@@ -7,7 +7,8 @@ This is a `comprehensive project` that consolidates former mini API endpoints ch
 - Click :point_right: [here](https://www.figma.com/proto/P9ZFb3XZKi6OTKlwhIVT3e/All-For-One?node-id=1-3&starting-point-node-id=1%3A3&mode=design&t=H8UrXTEuxcELZiLW-1) to visit the **Figma Prototype** for Mobile and Desktop.
 
 > [!NOTE]
-> This application fetches from a fully functional `Web API` that I created and deployed on `Azure`. It can be accessed by other applications over HTTP. Click :point_right: [here](https://github.com/et120/allforone) to visit the **Web API Repo**.
+> This application fetches from a fully functional `Web API` that I created and deployed on `Azure`. It can be accessed by other applications over HTTP.
+- Click :point_right: [here](https://github.com/et120/allforone) to visit the **Web API Repo**.
 &nbsp;
 
 
