@@ -1,4 +1,4 @@
-# All For One &nbsp;&nbsp;<a href="https://allforone-frontend.vercel.app/">![Website](https://img.shields.io/website?url=https%3A%2F%2Fallforone-frontend.vercel.app%2F&up_message=ONLINE&up_color=%23355E3B&down_message=OFFLINE&down_color=red&style=for-the-badge&logo=vercel)</a>
+# All For One &ensp;<a href="https://allforone-frontend.vercel.app/">![Website](https://img.shields.io/website?url=https%3A%2F%2Fallforone-frontend.vercel.app%2F&up_message=ONLINE&up_color=%23355E3B&down_message=OFFLINE&down_color=%238B0000&style=for-the-badge&logo=vercel)</a>
 **Name:** Elizabeth Trotter
 
 ### Project Scope
@@ -9,10 +9,10 @@ This project was prototyped on `Figma` using a `mobile first design`. Click [her
 &nbsp;
 
 
-<h2 align="center">Application Preview</h2>
+<h2 align="center">Preview</h2>
 
 ![Mobile preview](./assets/MobilePreview.png)
-<p align="right">Figure 1: Mobile preview of home page and first two levels</p>
+<p align="right">Figure 1: Mobile design preview of home page and first two levels</p>
 
 
 ---
